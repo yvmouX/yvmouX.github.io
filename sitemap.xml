@@ -147,6 +147,13 @@
   </url>
   
   <url>
+    <loc>https://yvmoux.github.io/tags/demo/</loc>
+    <lastmod>2024-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yvmoux.github.io/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91/</loc>
     <lastmod>2024-05-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -155,13 +162,6 @@
   
   <url>
     <loc>https://yvmoux.github.io/tags/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/</loc>
-    <lastmod>2024-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yvmoux.github.io/tags/demo/</loc>
     <lastmod>2024-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
