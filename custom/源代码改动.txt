@@ -1,5 +1,5 @@
 1、删除搜索文字
-根目录\themes\butterfly\layout\includes\header\nav.pug
+[BlogRoot]\themes\butterfly\layout\includes\header\nav.pug
 nav#nav
   span#blog_name
     a#site-name(href=url_for('/')) #[=config.title]
@@ -14,4 +14,4 @@ nav#nav
 
     #toggle-menu
       a.site-page
-        i.fas.fa-bars.fa-fw
+        i.fas.fa-bars.fa-fw、
