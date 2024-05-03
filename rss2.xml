@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>yvmou&#39; Blog</title>
-    <link>https://yvmoux.github.io/</link>
+    <link>https://blog.yvmou.cn/</link>
     
     <image>
-      <url>https://yvmoux.github.io/icon.png</url>
+      <url>https://blog.yvmou.cn/icon.png</url>
       <title>yvmou&#39; Blog</title>
-      <link>https://yvmoux.github.io/</link>
+      <link>https://blog.yvmou.cn/</link>
     </image>
     
-    <atom:link href="https://yvmoux.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://blog.yvmou.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个没事随便发点东西的blog</description>
     <pubDate>Thu, 02 May 2024 23:39:32 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>功能demo</title>
-      <link>https://yvmoux.github.io/posts/8875cac/</link>
-      <guid>https://yvmoux.github.io/posts/8875cac/</guid>
+      <link>https://blog.yvmou.cn/posts/8875cac/</link>
+      <guid>https://blog.yvmou.cn/posts/8875cac/</guid>
       <pubDate>Tue, 30 Apr 2024 10:56:00 GMT</pubDate>
       
         
@@ -37,24 +37,24 @@
       
       
       
-      <category domain="https://yvmoux.github.io/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
+      <category domain="https://blog.yvmou.cn/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
       
-      <category domain="https://yvmoux.github.io/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/demo/">demo</category>
-      
-      
-      <category domain="https://yvmoux.github.io/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
-      
-      <category domain="https://yvmoux.github.io/tags/demo/">demo</category>
+      <category domain="https://blog.yvmou.cn/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/demo/">demo</category>
       
       
-      <comments>https://yvmoux.github.io/posts/8875cac/#disqus_thread</comments>
+      <category domain="https://blog.yvmou.cn/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/demo/">demo</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/8875cac/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>使用GitHub仓库搭建一个随机图片API</title>
-      <link>https://yvmoux.github.io/posts/256787e5/</link>
-      <guid>https://yvmoux.github.io/posts/256787e5/</guid>
+      <link>https://blog.yvmou.cn/posts/256787e5/</link>
+      <guid>https://blog.yvmou.cn/posts/256787e5/</guid>
       <pubDate>Fri, 26 Apr 2024 23:57:05 GMT</pubDate>
       
         
@@ -69,28 +69,28 @@
       
       
       
-      <category domain="https://yvmoux.github.io/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
+      <category domain="https://blog.yvmou.cn/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
       
-      <category domain="https://yvmoux.github.io/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/php/">php</category>
-      
-      
-      <category domain="https://yvmoux.github.io/tags/GitHub/">GitHub</category>
-      
-      <category domain="https://yvmoux.github.io/tags/php/">php</category>
-      
-      <category domain="https://yvmoux.github.io/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
-      
-      <category domain="https://yvmoux.github.io/tags/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api/">随机图片api</category>
+      <category domain="https://blog.yvmou.cn/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/php/">php</category>
       
       
-      <comments>https://yvmoux.github.io/posts/256787e5/#disqus_thread</comments>
+      <category domain="https://blog.yvmou.cn/tags/GitHub/">GitHub</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/php/">php</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api/">随机图片api</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/256787e5/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cheems，你要去码头整点薯条吗？</title>
-      <link>https://yvmoux.github.io/posts/ab306d8/</link>
-      <guid>https://yvmoux.github.io/posts/ab306d8/</guid>
+      <link>https://blog.yvmou.cn/posts/ab306d8/</link>
+      <guid>https://blog.yvmou.cn/posts/ab306d8/</guid>
       <pubDate>Mon, 22 Apr 2024 13:56:28 GMT</pubDate>
       
         
@@ -104,24 +104,24 @@
       
       
       
-      <category domain="https://yvmoux.github.io/categories/%E8%AF%B4%E8%AF%B4/">说说</category>
+      <category domain="https://blog.yvmou.cn/categories/%E8%AF%B4%E8%AF%B4/">说说</category>
       
       
-      <category domain="https://yvmoux.github.io/tags/Cheems/">Cheems</category>
+      <category domain="https://blog.yvmou.cn/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91/">哔哩哔哩视频</category>
       
-      <category domain="https://yvmoux.github.io/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91/">哔哩哔哩视频</category>
+      <category domain="https://blog.yvmou.cn/tags/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/">生活感悟</category>
       
-      <category domain="https://yvmoux.github.io/tags/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/">生活感悟</category>
+      <category domain="https://blog.yvmou.cn/tags/Cheems/">Cheems</category>
       
       
-      <comments>https://yvmoux.github.io/posts/ab306d8/#disqus_thread</comments>
+      <comments>https://blog.yvmou.cn/posts/ab306d8/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>网络锚定效应</title>
-      <link>https://yvmoux.github.io/posts/6dc70c59/</link>
-      <guid>https://yvmoux.github.io/posts/6dc70c59/</guid>
+      <link>https://blog.yvmou.cn/posts/6dc70c59/</link>
+      <guid>https://blog.yvmou.cn/posts/6dc70c59/</guid>
       <pubDate>Mon, 22 Apr 2024 13:54:13 GMT</pubDate>
       
         
@@ -142,22 +142,22 @@
       
       
       
-      <category domain="https://yvmoux.github.io/categories/%E8%AF%B4%E8%AF%B4/">说说</category>
+      <category domain="https://blog.yvmou.cn/categories/%E8%AF%B4%E8%AF%B4/">说说</category>
       
       
-      <category domain="https://yvmoux.github.io/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91/">哔哩哔哩视频</category>
+      <category domain="https://blog.yvmou.cn/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91/">哔哩哔哩视频</category>
       
-      <category domain="https://yvmoux.github.io/tags/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/">生活感悟</category>
+      <category domain="https://blog.yvmou.cn/tags/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/">生活感悟</category>
       
       
-      <comments>https://yvmoux.github.io/posts/6dc70c59/#disqus_thread</comments>
+      <comments>https://blog.yvmou.cn/posts/6dc70c59/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>入门教程——MC萌新服主保姆级开服系列（一）：选择服务端核心</title>
-      <link>https://yvmoux.github.io/posts/5d5eb813/</link>
-      <guid>https://yvmoux.github.io/posts/5d5eb813/</guid>
+      <link>https://blog.yvmou.cn/posts/5d5eb813/</link>
+      <guid>https://blog.yvmou.cn/posts/5d5eb813/</guid>
       <pubDate>Sat, 30 Mar 2024 14:32:26 GMT</pubDate>
       
         
@@ -175,17 +175,17 @@
       
       
       
-      <category domain="https://yvmoux.github.io/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
+      <category domain="https://blog.yvmou.cn/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
       
       
-      <category domain="https://yvmoux.github.io/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
+      <category domain="https://blog.yvmou.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
       
-      <category domain="https://yvmoux.github.io/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/">我的世界开服教程</category>
+      <category domain="https://blog.yvmou.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/">我的世界开服教程</category>
       
-      <category domain="https://yvmoux.github.io/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%A0%B8%E5%BF%83%E4%BB%8B%E7%BB%8D/">我的世界服务器核心介绍</category>
+      <category domain="https://blog.yvmou.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%A0%B8%E5%BF%83%E4%BB%8B%E7%BB%8D/">我的世界服务器核心介绍</category>
       
       
-      <comments>https://yvmoux.github.io/posts/5d5eb813/#disqus_thread</comments>
+      <comments>https://blog.yvmou.cn/posts/5d5eb813/#disqus_thread</comments>
       
     </item>
     
