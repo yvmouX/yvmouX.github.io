@@ -15,7 +15,7 @@
     <atom:link href="https://blog.yvmou.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个没事随便发点东西的blog</description>
-    <pubDate>Thu, 02 May 2024 23:39:32 GMT</pubDate>
+    <pubDate>Fri, 03 May 2024 15:29:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -52,7 +52,7 @@
     </item>
     
     <item>
-      <title>使用GitHub仓库搭建一个随机图片API</title>
+      <title>搭建个人随机图片API，并利用GitHub仓库和CDN加速</title>
       <link>https://blog.yvmou.cn/posts/256787e5/</link>
       <guid>https://blog.yvmou.cn/posts/256787e5/</guid>
       <pubDate>Fri, 26 Apr 2024 23:57:05 GMT</pubDate>
@@ -62,7 +62,9 @@
           
           
       <description>&lt;h1&gt;前言&lt;/h1&gt;
-&lt;p&gt;众所周知，随机图片 API经常用于各种网站的背景或文章封面，但是网上一些免费的随机图片 API，时不时就会跑路，这令站长不得不投入更多的精力去维护网站。</description>
+&lt;p&gt;随机图片API广泛应用于网站背景和文章封面，但市面上的免费服务往往不稳定。通过将图片存储在GitHub并使用CDN加速，我们可以创建一个稳定且快速的图片服务。&lt;/p&gt;
+&lt;h1&gt;创建GitHub仓库：&lt;/h1&gt;
+&lt;p&gt;首先，登录您的GitHub账号，点</description>
           
         
       
@@ -77,8 +79,6 @@
       <category domain="https://blog.yvmou.cn/tags/GitHub/">GitHub</category>
       
       <category domain="https://blog.yvmou.cn/tags/php/">php</category>
-      
-      <category domain="https://blog.yvmou.cn/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
       
       <category domain="https://blog.yvmou.cn/tags/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api/">随机图片api</category>
       
