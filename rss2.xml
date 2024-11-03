@@ -15,8 +15,40 @@
     <atom:link href="https://blog.yvmou.cn/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个没事随便发点东西的blog</description>
-    <pubDate>Mon, 13 May 2024 10:03:31 GMT</pubDate>
+    <pubDate>Sun, 03 Nov 2024 16:19:14 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>ArkEarth二周目开发进度公示</title>
+      <link>https://blog.yvmou.cn/posts/d5178d78/</link>
+      <guid>https://blog.yvmou.cn/posts/d5178d78/</guid>
+      <pubDate>Sun, 03 Nov 2024 16:17:11 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;hr&gt;
+&lt;h1&gt;2024.11.3&lt;/h1&gt;
+&lt;p&gt;现已完成二周目地图的准备工作，服务器基本框架已完成。&lt;/p&gt;
+&lt;p&gt;二周目地图预览：&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/%E5%88%86%E7%B1%BB1/">分类1</category>
+      
+      <category domain="https://blog.yvmou.cn/categories/%E5%88%86%E7%B1%BB2/">分类2</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/%E6%A0%87%E7%AD%BE/">标签</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/d5178d78/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>功能demo</title>
@@ -145,37 +177,6 @@
       
       
       <comments>https://blog.yvmou.cn/posts/6dc70c59/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>ArkEarth二周目开发进度公示</title>
-      <link>https://blog.yvmou.cn/posts/5d5eb813/</link>
-      <guid>https://blog.yvmou.cn/posts/5d5eb813/</guid>
-      <pubDate>Sat, 30 Mar 2024 14:32:26 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h1&gt;2024.11.3&lt;/h1&gt;
-&lt;p&gt;现已完成二周目地图的准备工作，服务器基本框架已完成。&lt;/p&gt;
-&lt;p&gt;二周目地图预览：&lt;a</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://blog.yvmou.cn/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
-      
-      
-      <category domain="https://blog.yvmou.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
-      
-      <category domain="https://blog.yvmou.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/">我的世界开服教程</category>
-      
-      
-      <comments>https://blog.yvmou.cn/posts/5d5eb813/#disqus_thread</comments>
       
     </item>
     
