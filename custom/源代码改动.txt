@@ -1,0 +1,35 @@
+
+1、删除搜索文字
+[根目录]\themes\butterfly\layout\includes\header\nav.pug
+nav#nav
+  span#blog_name
+    a#site-name(href=url_for('/')) #[=config.title]
+    
+  #menus
+    if (theme.algolia_search.enable || theme.local_search.enable)
+      #search-button
+        a.site-page.social-icon.search
+          i.fas.fa-search.fa-fw
+          //-span=' '+_p('search.title')   注释了这里
+    !=partial('includes/header/menu_item', {}, {cache: true})
+
+    #toggle-menu
+      a.site-page
+        i.fas.fa-bars.fa-fw、
+2、添加回到底部按钮
+在[根目录]\themes\butterfly\layout\includes\rightside.pug最底部增加以下内容:
+
+    button#go-down(type="button" title="直达底部" onclick="btf.scrollToDest(document.body.scrollHeight, 500)")
+      i.fas.fa-arrow-down
+3、黑白切换动画效果
+新建[根目录]\themes\butterfly\layout\includes\custom\sun-moon.pug,
+新建[根目录]\themes\butterfly\source\css\-layout\sun-moon.styl
+新建[根目录]\themes\butterfly\source\custom\js\sun-moon.js
+修改[根目录]\themes\butterfly\layout\includes\head.pug,在文件末位加上一行
+include ./custom/sun_moon.pug
+修改[根目录]\themes\butterfly\layout\includes\rightside.pug,把原本的昼夜切换按钮替换掉
+-     button#darkmode(type="button" title=_p('rightside.night_mode_title'))
+-       i.fas.fa-adjust
++     a.icon-V.hidden(onclick='switchNightMode()',  title=_p('rightside.night_mode_title'))
++       svg(width='25', height='25', viewBox='0 0 1024 1024')
++         use#modeicon(xlink:href='#icon-moon')
