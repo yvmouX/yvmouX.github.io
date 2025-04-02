@@ -1,0 +1,1 @@
+const t={key:"v-28f9ec20",path:"/guide/giant.html",title:"一定要知道的5个句型",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642494171e3},filePathRelative:"guide/giant.md"};export{t as data};

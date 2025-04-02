@@ -1,0 +1,1 @@
+const e={key:"v-1b358200",path:"/guide/compare.html",title:"搞事的比较级",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642582105e3},filePathRelative:"guide/compare.md"};export{e as data};

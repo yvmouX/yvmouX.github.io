@@ -1,0 +1,1 @@
+var titleTime,OriginTitile=document.title;document.addEventListener("visibilitychange",(function(){document.hidden?(document.title="👀人呢~",clearTimeout(titleTime)):(document.title="回来了哈～",titleTime=setTimeout((function(){document.title=OriginTitile}),2e3))}));

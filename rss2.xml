@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yvmou&#39;s Blog</title>
+    <link>https://blog.yvmou.cn/</link>
+    
+    <image>
+      <url>https://blog.yvmou.cn/icon.png</url>
+      <title>yvmou&#39;s Blog</title>
+      <link>https://blog.yvmou.cn/</link>
+    </image>
+    
+    <atom:link href="https://blog.yvmou.cn/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>学习博客</description>
+    <pubDate>Wed, 02 Apr 2025 16:57:09 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>GODOT的input相关用法</title>
+      <link>https://blog.yvmou.cn/posts/6ebbc67d/</link>
+      <guid>https://blog.yvmou.cn/posts/6ebbc67d/</guid>
+      <pubDate>Tue, 01 Apr 2025 08:00:36 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;hr&gt;
+&lt;h1&gt;GODOT的input相关用法&lt;/h1&gt;
+&lt;h3 id=&quot;1-input-event-方法&quot;&gt;&lt;strong&gt;1. &lt;code&gt;_input_event&lt;/code&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/Godot/">Godot</category>
+      
+      <category domain="https://blog.yvmou.cn/categories/Godot/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/Godot/">Godot</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/GDScript/">GDScript</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/Godot%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">Godot学习笔记</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/6ebbc67d/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>单例模式的 9 种写法</title>
+      <link>https://blog.yvmou.cn/posts/e2d6e04a/</link>
+      <guid>https://blog.yvmou.cn/posts/e2d6e04a/</guid>
+      <pubDate>Sat, 22 Mar 2025 15:48:53 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;strong&gt;&lt;div class=&quot;note flat&quot;&gt;&lt;p&gt;原文地址：&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/JAVA/">JAVA</category>
+      
+      <category domain="https://blog.yvmou.cn/categories/JAVA/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/JAVA/">JAVA</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/e2d6e04a/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>GDScript自动格式化脚本</title>
+      <link>https://blog.yvmou.cn/posts/3dc28bac/</link>
+      <guid>https://blog.yvmou.cn/posts/3dc28bac/</guid>
+      <pubDate>Fri, 21 Mar 2025 08:17:06 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;strong&gt;&lt;div class=&quot;note flat&quot;&gt;&lt;p&gt;原文地址：&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/Godot/">Godot</category>
+      
+      <category domain="https://blog.yvmou.cn/categories/Godot/%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/">插件推荐</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/Godot/">Godot</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/Godot%E6%8F%92%E4%BB%B6/">Godot插件</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/GDScript-%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%A8%8B%E5%BA%8F/">GDScript 格式化程序</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/GDScript-Formatter/">GDScript Formatter</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/GDScript/">GDScript</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/3dc28bac/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>DeathTaunt 插件文档</title>
+      <link>https://blog.yvmou.cn/posts/bc575e63/</link>
+      <guid>https://blog.yvmou.cn/posts/bc575e63/</guid>
+      <pubDate>Sat, 15 Mar 2025 14:08:14 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;hr&gt;
+&lt;h1&gt;DeathTaunt 插件文档&lt;/h1&gt;
+&lt;p&gt;死亡惩罚插件&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;下载链接：&lt;a href=&quot;https://github.com/yvmouX/DeathTaunt/releases&quot;&gt;发行版 ·</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
+      
+      <category domain="https://blog.yvmou.cn/categories/%E5%8E%9F%E5%88%9B%E6%8F%92%E4%BB%B6/">原创插件</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8F%92%E4%BB%B6/">服务器插件</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/bc575e63/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Godot教程汇总</title>
+      <link>https://blog.yvmou.cn/posts/8da6c2c2/</link>
+      <guid>https://blog.yvmou.cn/posts/8da6c2c2/</guid>
+      <pubDate>Wed, 12 Mar 2025 01:24:33 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;hr&gt;
+&lt;h1&gt;网站&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.godotengine.org/en/stable/&quot;&gt;godot官方文档&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/Godot/">Godot</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/Godot/">Godot</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/">学习教程</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/8da6c2c2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>blender每日一练（2）之骰子</title>
+      <link>https://blog.yvmou.cn/posts/8ed1e0a1/</link>
+      <guid>https://blog.yvmou.cn/posts/8ed1e0a1/</guid>
+      <pubDate>Sat, 08 Mar 2025 12:49:31 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1&gt;Step 1&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Shift + A&lt;/strong&gt;创建一个立方体，&lt;strong&gt;Crtl + 3&lt;/strong&gt; 添加表面细分修改器。&lt;/p&gt;
+&lt;h1&gt;Step 2&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;TAB&lt;/strong&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/blender/">blender</category>
+      
+      <category domain="https://blog.yvmou.cn/categories/blender/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%BB%83/">每日一练</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/blender/">blender</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%BB%83/">每日一练</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/8ed1e0a1/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>blender每日一练（1）之垃圾桶</title>
+      <link>https://blog.yvmou.cn/posts/b4f3cc9/</link>
+      <guid>https://blog.yvmou.cn/posts/b4f3cc9/</guid>
+      <pubDate>Fri, 07 Mar 2025 12:47:16 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;hr&gt;
+&lt;h1&gt;Step 1&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Shift + A&lt;/strong&gt; 创建一个圆环，&lt;strong&gt;Tab&lt;/strong&gt; 进入编辑模式。&lt;/p&gt;
+&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/blender/">blender</category>
+      
+      <category domain="https://blog.yvmou.cn/categories/blender/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%BB%83/">每日一练</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/blender/">blender</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%BB%83/">每日一练</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/b4f3cc9/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>功能demo</title>
+      <link>https://blog.yvmou.cn/posts/8875cac/</link>
+      <guid>https://blog.yvmou.cn/posts/8875cac/</guid>
+      <pubDate>Tue, 30 Apr 2024 10:56:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;hr&gt;
+&lt;p&gt;主题配置-1  &lt;a href=&quot;https://butterfly.js.org/posts/4aa8abbe/&quot;&gt;Butterfly 安裝文檔(三) 主題配置-1 | Butterfly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;主题配置-2  &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
+      
+      <category domain="https://blog.yvmou.cn/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/demo/">demo</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/demo/">demo</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/8875cac/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>搭建个人随机图片API，并利用GitHub仓库和CDN加速</title>
+      <link>https://blog.yvmou.cn/posts/256787e5/</link>
+      <guid>https://blog.yvmou.cn/posts/256787e5/</guid>
+      <pubDate>Fri, 26 Apr 2024 23:57:05 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1&gt;前言&lt;/h1&gt;
+&lt;p&gt;随机图片API广泛应用于网站背景和文章封面，但市面上的免费服务往往不稳定。通过将图片存储在GitHub并使用CDN加速，我们可以创建一个稳定且快速的图片服务。&lt;/p&gt;
+&lt;h1&gt;创建GitHub仓库：&lt;/h1&gt;
+&lt;p&gt;首先，登录您的GitHub账号，点</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</category>
+      
+      <category domain="https://blog.yvmou.cn/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/php/">php</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/GitHub/">GitHub</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api/">随机图片api</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/256787e5/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Cheems，你要去码头整点薯条吗？</title>
+      <link>https://blog.yvmou.cn/posts/ab306d8/</link>
+      <guid>https://blog.yvmou.cn/posts/ab306d8/</guid>
+      <pubDate>Mon, 22 Apr 2024 13:56:28 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;span data-mce-type=&quot;bookmark&quot; style=&quot;display: inline-block; width: 0px; overflow: hidden; line-height: 0;&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/%E6%96%87%E6%91%98/">文摘</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/">哔哩哔哩</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/Cheems/">Cheems</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/ab306d8/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>网络锚定效应</title>
+      <link>https://blog.yvmou.cn/posts/6dc70c59/</link>
+      <guid>https://blog.yvmou.cn/posts/6dc70c59/</guid>
+      <pubDate>Mon, 22 Apr 2024 13:54:13 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;自伊甸崩毁，巴别坍塌，&lt;br&gt;
+人与人便失了对彼此的理解，&lt;br&gt;
+文字与言辞不再为赞颂他人而唤起，&lt;br&gt;
+诗与歌的神灵自此咏唱纷争的史诗，&lt;br&gt;
+那些古老的谜语和神话遗落于烽火，&lt;br&gt;
+血与悲壮编织出新的文明…&lt;br&gt;
+当鸽啼喑哑，辱蔑与刀金争鸣，&lt;br&gt;
+步于云端</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/%E6%96%87%E6%91%98/">文摘</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/">哔哩哔哩</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E7%BD%91%E7%BB%9C%E9%94%9A%E7%82%B9%E6%95%88%E5%BA%94/">网络锚点效应</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/6dc70c59/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>入门教程——MC萌新服主保姆级开服系列（一）：选择服务端核心</title>
+      <link>https://blog.yvmou.cn/posts/5d5eb813/</link>
+      <guid>https://blog.yvmou.cn/posts/5d5eb813/</guid>
+      <pubDate>Sat, 30 Mar 2024 14:32:26 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1&gt;前言&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Windows&lt;/strong&gt;系统开服教程（Linux系统会考虑在本系列完结后出单独教程），在教程开始之前，请准备好以下物品或工具：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一台电脑&lt;/li&gt;
+&lt;li&gt;一台VPS（没有可以暂时用自己的电脑）&lt;/l</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.yvmou.cn/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
+      
+      
+      <category domain="https://blog.yvmou.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/">我的世界</category>
+      
+      <category domain="https://blog.yvmou.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/">我的世界开服教程</category>
+      
+      
+      <comments>https://blog.yvmou.cn/posts/5d5eb813/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1 @@
+const e={key:"v-63f26f0e",path:"/guide/preposition.html",title:"如何用介词in/on/at表示位置",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642576542e3},filePathRelative:"guide/preposition.md"};export{e as data};

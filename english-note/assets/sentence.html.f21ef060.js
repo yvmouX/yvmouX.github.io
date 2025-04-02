@@ -1,0 +1,1 @@
+const e={key:"v-21acd22c",path:"/guide/sentence.html",title:"八大句子成分",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642492618e3},filePathRelative:"guide/sentence.md"};export{e as data};
