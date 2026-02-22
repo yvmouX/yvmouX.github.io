@@ -1,0 +1,1 @@
+const e={key:"v-39dec07e",path:"/guide/grammar.html",title:"从词性开始",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642414595e3},filePathRelative:"guide/grammar.md"};export{e as data};

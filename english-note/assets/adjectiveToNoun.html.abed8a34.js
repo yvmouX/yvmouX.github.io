@@ -1,0 +1,1 @@
+const e={key:"v-4a537307",path:"/guide/adjectiveToNoun.html",title:"形容词 和 名词 的关系",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642495676e3},filePathRelative:"guide/adjectiveToNoun.md"};export{e as data};
